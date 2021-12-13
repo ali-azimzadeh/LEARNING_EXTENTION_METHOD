@@ -1,0 +1,15 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\ref\MyClassLibrary.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\OtherClassLibrary.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\bin\Debug\net5.0\OtherClassLibrary.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.CopyComplete
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\ref\MyClassLibrary.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_EXTENTION_METHOD\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.pdb

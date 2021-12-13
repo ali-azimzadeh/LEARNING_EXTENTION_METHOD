@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LEARNING_EXTENTION_METHOD/1.0.0": {
+        "dependencies": {
+          "OtherClassLibrary": "1.0.0",
+          "YourClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LEARNING_EXTENTION_METHOD.dll": {}
+        }
+      },
+      "OtherClassLibrary/1.0.0": {
+        "runtime": {
+          "OtherClassLibrary.dll": {}
+        }
+      },
+      "YourClassLibrary/1.0.0": {
+        "dependencies": {
+          "OtherClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "YourClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LEARNING_EXTENTION_METHOD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OtherClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YourClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
